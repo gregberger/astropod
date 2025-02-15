@@ -1,5 +1,5 @@
 ---
-title: Episode 1, qui nous envoit dans le cosmos
+title: Episode 1, Celui qui nous envoit dans le cosmos
 audioUrl: ""
 pubDate: Feb 14 2025
 duration: 02:30

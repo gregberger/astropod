@@ -12,16 +12,16 @@
   "explicit": false,
   "cover": "/cover.jpg",
   "language": "en",
-  "link": "https://your-website-url.netlify.app",
-  "email": "your.email@gmail.com",
-  "description": "",
+  "link": "https://podcast.cosmiverse.be",
+  "email": "gurus@cosmiverse.be",
+  "description": "Cosmic, L'émission. Prolongement des soirées Cosmic. Tous les 15 jours sur 48 FM.",
   "category": [
     "Music",
     "DJaying",
     "DJ", "Mix",
     "Disco","Radio",
     "Music History", "Dancefloor",
-    "Dance", "Electronic"
+    "Dance", "Electronic", "Words and Beats"
   ],
   "feedSize": ""
 }

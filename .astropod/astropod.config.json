@@ -1,6 +1,6 @@
 {
   "copyright": "WTFPL",
-  "theme": "light",
+  "theme": "dracula",
   "fundingText": "Support this podcast",
   "author": "Cosmic Collective",
   "name": "Cosmic, L'émisson",
@@ -10,18 +10,18 @@
   "owner": "cosmiverse.be",
   "favicon": "/favicon.svg",
   "explicit": false,
-  "cover": "/cover.jpg",
-  "language": "en",
+  "cover": "/cosmic-logo.jpg",
+  "language": "fr",
   "link": "https://podcast.cosmiverse.be",
   "email": "gurus@cosmiverse.be",
-  "description": "Cosmic, L'émission. Prolongement des soirées Cosmic. Tous les 15 jours sur 48 FM.",
+  "description": "Cosmic, L'émission. Prolongement des soirées Cosmic. Tous les 15 jours sur 48 FM.\n\nAnimé par Jerohm avec la complicité de Cosmic Turtle, George Mood et Joe d’Absynth.",
   "category": [
     "Music",
     "DJaying",
     "DJ", "Mix",
     "Disco","Radio",
     "Music History", "Dancefloor",
-    "Dance", "Electronic", "Words and Beats"
+    "Dance", "Electronic", "Words and Beats", "Words and Beats"
   ],
-  "feedSize": ""
+  "feedSize": "1"
 }

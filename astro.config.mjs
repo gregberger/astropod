@@ -1,11 +1,9 @@
-import { defineConfig } from "astro/config";
 import mdx from "@astrojs/mdx";
 import sitemap from "@astrojs/sitemap";
 import tailwind from "@astrojs/tailwind";
-import NetlifyCMS from "astro-netlify-cms";
-import dcapConfig from "./decap.config.mjs";
-import astropodConfig from "./.astropod/astropod.config.json";
 import robotsTxt from "astro-robots-txt";
+import { defineConfig } from "astro/config";
+import astropodConfig from "./.astropod/astropod.config.json";
 
 // https://astro.build/config
 import image from "@astrojs/image";
@@ -19,7 +17,6 @@ export default defineConfig({
         {
           userAgent: "*",
           allow: "/",
-          disallow: "/admin",
         },
       ],
     }),
@@ -30,9 +27,6 @@ export default defineConfig({
       serviceEntryPoint: "@astrojs/image/sharp",
       cacheDir: "./.cache/image",
       logLevel: "debug",
-    }),
-    NetlifyCMS({
-      config: dcapConfig(),
     }),
   ],
 });

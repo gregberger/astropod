@@ -1,10 +1,10 @@
 ---
 title: Episode 1, Celui qui nous envoit dans le cosmos
-audioUrl: "https://contents.cosmiverse.be/Cosmic%2001%20Full.flac"
+audioUrl: "https://contents.cosmiverse.be/Cosmic-01.mp3"
 pubDate: Feb 14 2025
 duration: 2:27:53
 size: 1.4
-cover: ""
+cover: "/images/ep1.png"
 explicit: true
 episode: 1
 season: 1

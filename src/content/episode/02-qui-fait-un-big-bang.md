@@ -2,9 +2,9 @@
 title: Episode 2, Celui qui fait (big) bang.
 audioUrl: "https://contents.cosmiverse.be/Cosmic%2002.flac"
 pubDate: March 14 2025
-duration: 2:27:53
+duration: 2:21:09
 size: 1.4
-cover: ""
+cover: "/images/ep2.png"
 explicit: true
 episode: 1
 season: 1

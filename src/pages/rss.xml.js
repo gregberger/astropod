@@ -1,7 +1,7 @@
-import xml2js from "xml2js";
-import dayjs from "dayjs";
-import astropodConfig from "../../.astropod/astropod.config.json";
 import { getCollection } from "astro:content";
+import dayjs from "dayjs";
+import xml2js from "xml2js";
+import astropodConfig from "../../.astropod/astropod.config.json";
 let episode = await getCollection("episode");
 episode.sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 if (astropodConfig.feedSize) episode = episode.slice(0, astropodConfig.feedSize);
@@ -11,7 +11,7 @@ import { marked } from "marked";
 const lastBuildDate = dayjs().format("ddd, DD MMM YYYY hh:mm:ss ZZ");
 const cover = isFullUrl(astropodConfig.cover) ? astropodConfig.cover : astropodConfig.link + astropodConfig.cover;
 
-export async function get(context) {
+export async function GET() {
   let podcast = {
     rss: {
       $: {
@@ -121,9 +121,7 @@ export async function get(context) {
   let builder = new xml2js.Builder({cdata: true});
   let xml = builder.buildObject(podcast);
 
-  return {
-    body: xml,
-  };
+  return new Response(xml);
 }
 
 function isFullUrl(urlString) {

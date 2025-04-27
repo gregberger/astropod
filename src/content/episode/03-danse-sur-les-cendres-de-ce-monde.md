@@ -19,7 +19,7 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Cosmic Turtle](
 
 ## Le Monologue de Jerohm
 
-Bienvenue dans Cosmic, l'émission où la musique ne se contente pas de carboniser vos chers tympans, elle traverse les dimensions, défile les lois de la gravité, illumine même les trous noirs de nos sociétés. Ici, on parle de musique cosmique, celle qui fait vibrer les âmes et tenir debout les esprits, même dans un monde qui tourne aussi mal qu'un disque rayé. 
+Bienvenue dans Cosmic, l'émission où la musique ne se contente pas de carboniser vos chers tympans, elle traverse les dimensions, défie les lois de la gravité, illumine même les trous noirs de nos sociétés. Ici, on parle de musique cosmique, celle qui fait vibrer les âmes et tenir debout les esprits, même dans un monde qui tourne aussi mal qu'un disque rayé. 
 Dans cet univers parallèle où les platines règnent en mètres et où les vinyles tournent plus vite que les discours creux des plateaux télé, une résistance musicale s'impose. 
 
 De Motorhead à Oum Kaltoum, de NTM à Jeff Mills. De Miles Davis aux Beatles, la musique est notre boussole. Le fil rouge qui nous maintient en vie sur les routes accidentées de la vie. Elle libère, apaise, nourrit et parfois même sauve. 

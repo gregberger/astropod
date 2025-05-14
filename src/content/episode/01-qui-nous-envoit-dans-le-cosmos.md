@@ -15,6 +15,11 @@ episodeType: full
 
 Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [George Mood](https://soundcloud.com/george_mood) et [Joe d’Absynth](https://soundcloud.com/gregory-berger-1)
 
+## Guest Mix
+
+[Mousky](https://soundcloud.com/mouskyyyyyy) Merci encore !!
+
+
 
 ## Le Monologue de Jerohm
 
@@ -34,13 +39,6 @@ Prépare-toi à abandonner tout repère. On n'est pas là pour rigoler.
 ### 🚀 morceaux qui envoient dans le Cosmos 🚀
 
 - [La playlist de Joe](https://www.youtube.com/embed/videoseries?si=Y0FuzF-QLNu58zzQ&amp;list=PLOfsi1cmiKDc6QJI_92ONT9FifgHTTTFc)
-
-
---- 
-## Guest Mix
-
-[Mousky](https://soundcloud.com/mouskyyyyyy) Merci encore !!
-
 
 
 

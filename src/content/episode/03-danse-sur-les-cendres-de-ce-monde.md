@@ -6,7 +6,7 @@ duration: 2:30:02
 size: 1.4
 cover: "/images/ep3.png"
 explicit: true
-episode: 1
+episode: 3
 season: 1
 episodeType: full
 ---
@@ -14,8 +14,6 @@ episodeType: full
 # Episode 3, Dansons sur les cendres de ce monde (spécial digging)
 
 Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [George Mood](https://soundcloud.com/george_mood) et [Joe d’Absynth](https://soundcloud.com/gregory-berger-1)
-
-
 
 ## Le Monologue de Jerohm
 
@@ -35,6 +33,11 @@ Cosmic Radio, numéro trois ou danse macabre en Outremeuse.
 Dansons sur les cendres de ce monde.
 
 --- 
+
+## Guest Mix
+
+[Dalidark](https://soundcloud.com/el-onore-goffin) Merci à elle !!
+
 
 ## Les liens 
 
@@ -82,14 +85,3 @@ Dansons sur les cendres de ce monde.
 - **George Mood** : [Locked Club – Electro Hund](https://youtu.be/06ELk4anR8c?si=jaZCvxPwtbVpUEL3)
 - **Jerohm** : [Junto Club – Leaving Forever](https://youtu.be/ICrs6gafi0I?si=8oQFgRF5F6F_nAF2)
 - **Joe d'Absynth** : [Glass Candy – Drum](https://youtu.be/JxPqT3pjKgs?si=SDDSgYrT4ewjsXHP)
-
-
-## Guest Mix
-
-[Dalidark](https://soundcloud.com/el-onore-goffin) Merci à elle !!
-
-
-
-
-
-

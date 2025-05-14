@@ -6,7 +6,7 @@ duration: 2:21:09
 size: 1.4
 cover: "/images/ep2.png"
 explicit: true
-episode: 1
+episode: 2
 season: 1
 episodeType: full
 ---
@@ -15,6 +15,10 @@ episodeType: full
 
 Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [George Mood](https://soundcloud.com/george_mood) et [Joe d’Absynth](https://soundcloud.com/gregory-berger-1)
 
+
+## Guest Mix
+
+[Ed Isar](https://fr.ra.co/dj/edisar) Merci à lui !!
 
 ## Le Monologue de Jerohm
 Bonsoir, vous êtes bien sur Cosmic FM, l'émission qui prouve que l'univers est vaste, froid et rempli de playlists douteuses.
@@ -40,13 +44,3 @@ Au programme de cette émission intergalactique, des galettes rares, des pépite
 - [George Mood](https://www.youtube.com/watch?v=QQqwkPuD_Zo)
 - [Jerohm](https://www.youtube.com/watch?v=7HTOmW-fJ_4)
 - [Joe d'Absynth](https://www.youtube.com/watch?v=E24M0oTwxw4)
-
-## Guest Mix
-
-[Ed Isar](https://fr.ra.co/dj/edisar) Merci à lui !!
-
-
-
-
-
-

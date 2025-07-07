@@ -1,9 +1,9 @@
 ---
-title: "Episode 5 - Entendre le soleil"
+title: "Episode 5, Entendre le soleil"
 audioUrl: "https://contents.cosmiverse.be/cosmic-05.mp3"
 pubDate: "Jun 13, 2025"
-duration: "2:45:00"
-size: 1.0
+duration: "2:33:58"
+size: 1.4
 cover: "/images/ep5.png"
 explicit: true
 episode: 5
@@ -14,7 +14,7 @@ episodeType: full
 
 # Episode 5, Entendre le soleil
 
-Animé par [Jerohm](https://jerohm.com/) avec  [Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d’Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
+Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d’Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
 
 ---
 

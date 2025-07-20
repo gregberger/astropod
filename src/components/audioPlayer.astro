@@ -102,6 +102,11 @@ import AudioMutedIcon from "./icons/audioMutedIcon.astro";
       seekSlider?.setAttribute("max", audio.duration);
       audioLoading?.classList.add("hidden");
       audioControl?.classList.remove("hidden");
+      // set the current time to the last saved time
+      const lastSavedTime = localStorage.getItem("currentCosmicTime");
+      if (lastSavedTime) {
+        seekSlider.value = lastSavedTime;
+      }
     });
   }
 
@@ -128,6 +133,8 @@ import AudioMutedIcon from "./icons/audioMutedIcon.astro";
   audio.addEventListener("timeupdate", () => {
     seekSlider.value = Math.floor(audio.currentTime);
     currentTimeContainer.textContent = calculateTime(seekSlider.value);
+    // save the current time to local storage
+    localStorage.setItem("currentCosmicTime", seekSlider.value);
   });
 
   const playButtons = document.querySelectorAll(".card-pay-buttons");

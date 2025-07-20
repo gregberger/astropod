@@ -15,6 +15,16 @@ episodeType: full
 
 Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d'Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
 
+```
+⚠️⚠️⚠️ DISCLAIMER ⚠️⚠️⚠️
+
+La page de cet épisode a été générée automatiquement par une IA (Claude Sonnet 4 de Anthropic), sur base d'un transcript lui-même généré par une IA (AssemblyAI) à partir de l'enregistrement audio
+
+Utiliser de l'intelligence artificielle nous permet de laisser libre cours à notre bêtise naturelle (ceci dit, c'est probablement l'inverse: notre bêtise naturelle nous pousse à utiliser de l'intelligence artificielle). 
+
+Toujours est-il que des erreurs ~~peuvent~~ doivent s'être glissées ici. N'hésitez pas à nous les communiquer si vous en décelez.
+ ```
+
 ---
 
 ## Le monologue de Jérôme
@@ -27,11 +37,7 @@ Dans cet épisode, l'équipe explore la thématique décalée du morceau idéal 
 
 ## Guest Mix
 
-[LSB (Liszt Significant Beat)](Musique d'aérobic/Italo) Merci encore !!
-
-[Late Night Tough Guy](Editeur/Producteur) Merci encore !!
-
-[Thylacine](Producteur/Compositeur de BO) Merci encore !!
+[LSB (Least Significant Beat)(Musique d'aérobic/Italo)](https://leastsignificantbeat.bandcamp.com/album/kids) Merci encore, tout plein ❤️ !!
 
 ## Morceaux mentionnés
 

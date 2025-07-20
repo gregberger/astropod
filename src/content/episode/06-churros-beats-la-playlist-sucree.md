@@ -1,9 +1,9 @@
 ---
 title: Churros & Beats: La Playlist Sucrée
 audioUrl: "https://contents.cosmiverse.be/Cosmic-06.mp3"
-pubDate: Jul 20, 2025
+pubDate: Jul 21, 2025
 duration: null
-size: 99.6
+size: 0
 cover: "/images/ep6.png"
 explicit: true
 episode: 6
@@ -19,16 +19,16 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Cosmic Turtle](
 
 ## Guest Mix
 
-[LSB (Liszt Significant Beat)](Musique d'aérobic/italo) Merci encore !!
+[LSB (Liszt Significant Beat)](Musique d'aérobic/Italo) Merci encore !!
 
 ## Morceaux mentionnés
 
-- **Magazine 60** - Don Quichotte - 1980s
+- **Magazine 60** - Don Quichotte - 1984
 - **Brandy & Monica** - The Boy Is Mine (Late Night Tough Guy Edit)
 - **Brasiliero Garantido** - CR 004
 - **Luna de Miel** - Paradise Mi Amor - 1984
 - **Thylacine** - OVNI
-- **Raiko (edit of Kenny Stanton)** - Broadway
+- **Raiko (Kenny Stanton cover)** - Broadway
 - **2000+** - Lifeboard - 1986
 - **Fayphone** - People - 2013
 

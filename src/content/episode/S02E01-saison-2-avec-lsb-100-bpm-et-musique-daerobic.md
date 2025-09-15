@@ -4,10 +4,10 @@ audioUrl: "https://contents.cosmiverse.be/cosmic-S02E01.mp3"
 pubDate: "Sep 15, 2025"
 duration: "0:00:00"
 size: 0
-cover: "/images/epS02E01.png"
+cover: "/images/s02e01.png"
 explicit: true
-episode: S02E01
-season: 1
+episode: 1
+season: 2
 episodeType: full
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Musiques d'autoscooters et New Beat belge - Saison 2 Episode 2"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E02.mp3"  
-pubDate: "Oct 14, 2025"
+pubDate: "Oct 18, 2025"
 duration: "0:00:00"
 size: 0
 cover: "/images/S02E02.png"
@@ -30,30 +30,28 @@ Toujours est-il que des erreurs ~~peuvent~~ doivent s'être glissées ici. N'hé
 
 ## Le monologue de Jérôme
 
-> Amis du sexe et de la violence, bonsoir. Non, filles, filles, filles, filles. Mais, mais... Assez, ça suffit, stop, basta, c'en est trop. Il est temps que les masques tombent, que s'achève cette indigne infamie. Il est temps de braver le silence et de surmonter la peur. Osons ensemble nous soulever contre la tyrannie et la terreur. Sus à l'oppresseur, libérons-nous de son joug. Collègues, auditeuristes, copiennes, camarades, dévoilons l'abject, révélons l'indicible. Cette infâme omerta n'a que trop duré. Mettons fin aux supplices. Libérons nos affects de l'emprise castratrice. L'heure est venue de marteaupiquer la chape de plomb qui meurtrit nos cœurs, étouffe nos âmes et enclave nos esprits, car demain, demain, il sera trop tard. D'autres, toujours plus nombreux, toujours plus vulnérables, toujours plus asservis, sont encore en danger. Tergiversée n'est plus tenable. Autant des dervishes, le temps des dervishes tourneurs autour du pot est révolu. Alors, oui, à présent j'accuse, alors j'accuse, oui, comme Mimille, en sachant qu'il m'en cuira. Oui, je dénonce sans embage, sans faussemblance, sans chipoterie, sans plus attendre. Oui, nous devons de réagir, sans frémir, sans blémir, sans rougir, sans se retenir. Oui, j'entends m'insurger, sans sourciller, sans trainailler, sans pinailler, sans plus tarder. Soyons à temps au rendez-vous de l'histoire. Car l'histoire n'attend pas. L'histoire, c'est comme ces trains qui démarrent quand t'arrives sur le quai. L'histoire, c'est comme ces DJs qui sont chefs d'un podcast, maniaques de la toquante, les fous de la pointeuse. L'histoire, c'est une horloge qui fait tic. Tic, tic, tic, tic, tic. En parlant d'horloge, j'avais fomenté une insurrection à ce sujet. J'avais un truc urgent contre lequel lutter immédiatement. de s'impliquer la ponctualité. Les retards, l'académique quart d'heure à l'heure, l'heure, l'heure et les dictates, les dictates, l'heure, les dictates, les dictateurs, ah oui, sus aux dictateurs, ils se reconnaîtront. Merci de m'avoir écouté.
+> Amis du sexe et de la violence, bonsoir. Non, filles, filles, filles, filles. Mais, mais... Assez, ça suffit, stop, basta, c'en est trop. Il est temps que les masques tombent, que s'achève cette indigne infamie. Il est temps de braver le silence et de surmonter la peur. Osons ensemble nous soulever contre la tyrannie et la terreur. Sus à l'oppresseur, libérons-nous de son joug. Collègues, auditeuristes, copiennes, camarades, dévoilons l'abject, révélons l'indicible. Cette infâme omerta n'a que trop duré. Mettons fin aux supplices. Libérons nos affects de l'emprise castratrice. L'heure est venue de marteaupiquer la chape de plomb qui meurtrit nos cœurs, étouffe nos âmes et enclave nos esprits, car demain, demain, il sera trop tard.
 
 ---
 
-Une plongée dans l'univers musical des fêtes foraines avec un focus sur les musiques d'autoscooters, de la New Beat belge aux productions hardcore contemporaines. L'équipe explore aussi l'histoire du DJ et présente leurs morceaux du moment.
+Une plongée dans l'univers sonore des fêtes foraines avec un focus sur les musiques d'autoscooters, de la New Beat belge des années 90 au hardcore contemporain. L'équipe explore aussi l'histoire du métier de DJ et partage ses morceaux du moment entre disco, house et techno.
 
 ## Guest Mix
 
-[LSB](Live Performance) Merci encore !!
+[LSB](Live set) Merci encore !!
 
 [David Vunk](Moustache Records) Merci encore !!
 
 [Serge Ramachers](High Street/New Beat) Merci encore !!
 
-[Dominique Sass](2Belgun/Confettis) Merci encore !!
-
 ## Morceaux mentionnés
 
 | Artiste | Morceau | Info | Lien YouTube |
 |---------|---------|------|--------------|
-| Panacea & Knife & Chop | Chartbreaker (Electro Diva Remix) | Tiger Beats X | [écouter](Lien à vérifier) |
+| Panacea & Knife & Chop | Chartbreaker (Electro Diva Remix) | Tiger Beats X - 2004 | [écouter](Lien à vérifier) |
 | L.A. Style | James Brown Is Dead | Decadence Records - 1991 | [écouter](https://www.youtube.com/watch?v=dNP8tbDMZNE) |
 | High Street | Revolution | 1990 | [écouter](Lien à vérifier) |
-| Tim Swan | Destruction Derby Soundtrack | Psygnosis - 1995 | [écouter](Lien à vérifier) |
+| Tim Swan | Destruction Derby Theme | Psygnosis - 1995 | [écouter](Lien à vérifier) |
 | DJ Chrissy | The Right To Dance With Somebody | Maximum Airtimes | [écouter](Lien à vérifier) |
 | Kang Ding Ray | Sirat | Original | [écouter](Lien à vérifier) |
 | John Nosda | Climax | Moustache Records | [écouter](Lien à vérifier) |

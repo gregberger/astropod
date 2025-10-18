@@ -17,7 +17,7 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Cosmic Turtle](
 
 
 ## Le monologue de Jerohm
-Bonjour, bienvenue dans l'épisode quatre de l'émission Cosmic. 
+Bonjour, bienvenue dans l‘épisode quatre de l‘émission Cosmic. 
 
 Avec un numéro très spécial aujourd'hui puisqu'il s'agit d'un épisode spécial Japon. 
 

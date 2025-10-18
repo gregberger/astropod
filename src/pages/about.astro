@@ -4,5 +4,16 @@ import astropodConfig from "../../.astropod/astropod.config.json";
 ---
 
 <EpisodeLayout title="About" description={astropodConfig.description} cover={astropodConfig.cover}>
-  {astropodConfig.description}
+  <h1>{astropodConfig.name}</h1>
+  <p class="mb-4">
+    {astropodConfig.description}
+  </p>
+  <h2>Contact</h2>
+  <p class="mb-2">
+    Vous pouvez nous contacter par email à l'adresse&nbsp;: <a href={`mailto:${astropodConfig.email}`} class="link link-primary">{astropodConfig.email}</a>
+  </p>
+  <hr class="my-8" />
+  <p>
+    Enregistré à Liège artisanelement avec ❤️ et 🪩 par l'équipe Cosmic.
+  </p>
 </EpisodeLayout>

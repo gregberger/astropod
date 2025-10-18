@@ -4,7 +4,6 @@ audioUrl: "https://contents.cosmiverse.be/cosmic-06.mp3"
 pubDate: "Jul 21, 2025"
 duration: "0:00:00"
 size: 0
-cover: "/images/ep6.png"
 explicit: true
 episode: 6
 season: 1
@@ -13,7 +12,7 @@ episodeType: full
 
 # Episode 6 - Churros au Nutella et musiques inclassables
 
-Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d'Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
+Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d‘Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
 
 ```
 ⚠️⚠️⚠️ DISCLAIMER ⚠️⚠️⚠️

@@ -13,7 +13,7 @@ episodeType: full
 
 # Episode 1, Celui qui nous envoit dans le cosmos
 
-Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [George Mood](https://soundcloud.com/george_mood) et [Joe d’Absynth](https://soundcloud.com/gregory-berger-1)
+Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [George Mood](https://soundcloud.com/george_mood) et [Joe d‘Absynth](https://soundcloud.com/gregory-berger-1)
 
 ## Guest Mix
 

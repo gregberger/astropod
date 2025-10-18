@@ -20,7 +20,7 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cos
 
 ## Le monologue de Jérôme
 
-> Objet : « Cosmic, l'émission attachiante »  
+> Objet : « Cosmic, l‘émission attachiante »  
 >  
 > Salut la team Cosmic !  
 >  

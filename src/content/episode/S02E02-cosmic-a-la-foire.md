@@ -76,4 +76,4 @@ Par respect pour nos auditeurices, nous reprenons les descriptions manuelles
 | Kang Ding Ray | Sirat | Original | [écouter](Lien à vérifier) |
 | John Noseda | Climax | Moustache Records | [écouter](Lien à vérifier) |
 | Telex | I Don't Like Music (Ian O'Brien Remix) | Original | [écouter](Lien à vérifier) |
-| Alex Kostadinov | Romeo and Juliet (Disco Version) | Casablanca Records - 2024 | [écouter](Lien à vérifier) |
+| Alex Costandinos | Romeo and Juliet | Casablanca Records | [écouter](Lien à vérifier) |

@@ -1,5 +1,5 @@
 ---
-title: "Cosmic Horror Show I"
+title: "Épisode 9 - Cosmic Horror Show I"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E03.mp3"  
 pubDate: "Nov 14, 2025"
 duration: "02:08:30"

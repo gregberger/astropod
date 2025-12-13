@@ -2,6 +2,8 @@
 title: "Épisode 10 - Terminer en beauté"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E04.mp3"  
 pubDate: "Dec 13, 2025"
+duration: "02:30:30"
+size: 0
 explicit: true
 episode: 02
 season: 04
@@ -35,4 +37,4 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cos
 | Tutto Vetro | Wild Things | Wrong Era - 2025 | [écouter](https://youtu.be/yRzpfVigc2Q?si=4sIk3t4Y-x0AEXxY) |
 | Texas Johnny | Superman | Centre Neptune - 1984 | [écouter](https://youtu.be/Epb4q1ZMHUE?si=lxWe7JItrjx4Zyx3) |
 | Sissi | Queen of Discothèque | Giorgio Records | [deejay.de](https://www.deejay.de/SISSY_QUEEN_OF_DISCOTEQUE_GR007_Vinyl__1024879) |
-| Sister Irene O'Connor | Fire of God's Love | 1973 | [écouter](https://www.youtube.com/watch?v=kGFaPhmbfh4) |
+| Sister Irene O'Connor | Mass - Emmanuel sur Fire of God's Love | 1973 | [écouter](https://youtu.be/DNZPee_7c7o?si=WaTZSyefkyl6xKPM) |

@@ -2,8 +2,6 @@
 title: "Épisode 10 - Terminer en beauté"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E04.mp3"  
 pubDate: "Dec 13, 2025"
-duration: "0:00:00"
-size: 0
 explicit: true
 episode: 02
 season: 04
@@ -17,7 +15,7 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cos
 
 ## Le monologue de Jérôme
 
-> C'est parti. ! Bienvenue dans cette émission. Pourquoi je m'inflige ça, moi ? Cache ta joie. J'ai pas assez payé ma contribution à cette société capitaliste mortifère. Faut encore que je donne de ma personne ici. J'ai dû être Michel Drucker dans une vie précédente. Enfin, bienvenue, c'est un grand mot. Parce qu'honnêtement, j'en ai marre d'écrire des intros. Ça ne m'amuse plus. Personne ne m'aide et apparemment, dans cette équipe, l'inspiration est un sport individuel. Donc c'est encore moi qui m'y colle. Super, formidable, génial. A ce stade, je suis à un poil de moustache de tout envoyer balader, de jeter le micro dans un buisson et de m'inscrire à un atelier de macramé. Mais bon, on m'a dit non, faut une intro, c'est important, c'est ton rôle, ça rassure des auditeurs, les pauvres. Alors, accrochez-vous. Si moi, je dois tenir deux heures, vous pouvez tenir 30 secondes de plus. Allez, on commence. Avant que je change d'avis, mesdames et messieurs, auditeurs courageux, et vous, oui, vous dont le téléphone a décidé tout seul de lancer le mauvais podcast, bonjour.
+> C’est parti. ! Bienvenue dans cette émission. Pourquoi je m'inflige ça, moi ? Cache ta joie. J'ai pas assez payé ma contribution à cette société capitaliste mortifère. Faut encore que je donne de ma personne ici. J'ai dû être Michel Drucker dans une vie précédente. Enfin, bienvenue, c'est un grand mot. Parce qu'honnêtement, j'en ai marre d'écrire des intros. Ça ne m'amuse plus. Personne ne m'aide et apparemment, dans cette équipe, l'inspiration est un sport individuel. Donc c'est encore moi qui m'y colle. Super, formidable, génial. A ce stade, je suis à un poil de moustache de tout envoyer balader, de jeter le micro dans un buisson et de m'inscrire à un atelier de macramé. Mais bon, on m'a dit non, faut une intro, c'est important, c'est ton rôle, ça rassure des auditeurs, les pauvres. Alors, accrochez-vous. Si moi, je dois tenir deux heures, vous pouvez tenir 30 secondes de plus. Allez, on commence. Avant que je change d'avis, mesdames et messieurs, auditeurs courageux, et vous, oui, vous dont le téléphone a décidé tout seul de lancer le mauvais podcast, bonjour.
 
 ---
 

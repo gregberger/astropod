@@ -36,8 +36,8 @@ Un épisode spécial anti-déprime avec une sélection de morceaux feel good pou
 | Safi Brothers | On Air | Blue Room Released - 1997 | [écouter](Lien à vérifier) |
 | Syndicat Électronique | Dissidence | Invention Planète - 2002 | [écouter](Lien à vérifier) |
 | Space Cats | Yellow Beach Ball | Original | [écouter](Lien à vérifier) |
-| Jane Shy | Night Dancer | RSO - 1979 | [écouter](Lien à vérifier) |
-| Meco | Star Wars Theme | Casablanca Records - 1977 | [écouter](https://www.youtube.com/watch?v=mjjkHg5FOhk) |
+| Jeanne Shy | Night Dancer | RSO - 1979 | [écouter](https://youtu.be/UYYsWlYpS7A?si=tEy_FdZ9xs1qJjZq) |
+| Meco | Star Wars Theme | Casablanca Records - 1977 | [écouter](https://youtu.be/uJ3kV3Icm28?si=2QnYQM_J4t1-nT7_) |
 
 ---
 

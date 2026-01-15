@@ -1,5 +1,5 @@
 ---
-title: "Blue Monday et morceaux feel good pour survivre à l'hiver"
+title: "Anti Blue Monday"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E05.mp3"  
 pubDate: "Jan 14, 2026"
 duration: "0:00:00"
@@ -15,17 +15,6 @@ episodeType: full
 
 Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d‘Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
 
-
-```
-⚠️⚠️⚠️ DISCLAIMER ⚠️⚠️⚠️
-
-La page de cet épisode a été générée automatiquement par une IA (Claude Sonnet 4 de Anthropic), sur base d'un transcript lui-même généré par une IA (AssemblyAI) à partir de l'enregistrement audio
-
-Utiliser de l'intelligence artificielle nous permet de laisser libre cours à notre bêtise naturelle (ceci dit, c'est probablement l'inverse: notre bêtise naturelle nous pousse à utiliser de l'intelligence artificielle). 
-
-Toujours est-il que des erreurs ~~peuvent~~ doivent s'être glissées ici. N'hésitez pas à nous les communiquer si vous en décelez.
- ```
-
 ---
 
 ## Le monologue de Jérôme
@@ -40,9 +29,9 @@ Un épisode spécial anti-déprime avec une sélection de morceaux feel good pou
 
 | Artiste | Morceau | Info | Lien YouTube |
 |---------|---------|------|--------------|
-| Steve Monait | Only You | 1984 | [écouter](https://www.youtube.com/watch?v=_WcWHZc8s2I) |
-| Amid El-Shahri | Ayona | ABB Funk | [écouter](Lien à vérifier) |
-| Gloria Piedimonte | Kissei | 1978 | [écouter](Lien à vérifier) |
+| Steve Monite | Only You | 1984 | [écouter](https://www.youtube.com/watch?v=9YWFiEVlLK4) |
+| Hamid El Shaeri  | Ayonha | Habibi Funk | [écouter](https://www.youtube.com/watch?v=ecZEFEysOCE) |
+| Gloria Piedimonte | Chi Sei | 1978 | [écouter](https://youtu.be/JuOeDH_ZC6A?si=02jFIXFqftCN9Rd8) |
 | Touchdown | Easy Mine | 1980 | [écouter](Lien à vérifier) |
 | Safi Brothers | On Air | Blue Room Released - 1997 | [écouter](Lien à vérifier) |
 | Syndicat Électronique | Dissidence | Invention Planète - 2002 | [écouter](Lien à vérifier) |

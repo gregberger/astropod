@@ -2,9 +2,8 @@
 title: "Anti Blue Monday"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E05.mp3"  
 pubDate: "Jan 14, 2026"
-duration: "0:00:00"
+duration: "2:06:00"
 size: 0
-cover: "/images/S02E05.png"
 explicit: true
 episode: 02
 season: 05
@@ -23,7 +22,7 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cos
 
 ---
 
-Un épisode spécial anti-déprime avec une sélection de morceaux feel good pour combattre le Blue Monday. De Steve Monait à Amid El-Shahri en passant par Gloria Piedimonte, découvrez des pépites disco, boogie nigérian et italo pour réchauffer l'hiver.
+Un épisode spécial anti-déprime avec une sélection de morceaux feel good pour combattre le Blue Monday. De Steve Monite à Hamid El-Shaehri en passant par Gloria Piedimonte, découvrez des pépites disco, boogie nigérian et italo pour réchauffer l'hiver.
 
 ## Morceaux mentionnés
 
@@ -32,7 +31,7 @@ Un épisode spécial anti-déprime avec une sélection de morceaux feel good pou
 | Steve Monite | Only You | 1984 | [écouter](https://www.youtube.com/watch?v=9YWFiEVlLK4) |
 | Hamid El Shaeri  | Ayonha | Habibi Funk | [écouter](https://www.youtube.com/watch?v=ecZEFEysOCE) |
 | Gloria Piedimonte | Chi Sei | 1978 | [écouter](https://youtu.be/JuOeDH_ZC6A?si=02jFIXFqftCN9Rd8) |
-| Touchdown | Easy Mine | 1980 | [écouter](Lien à vérifier) |
+| Touchdown | Ease your Mind | 1980 | [écouter](https://youtu.be/LMqcdII0KdY?si=LannnpNK8FXr0h6L) |
 | Safi Brothers | On Air | Blue Room Released - 1997 | [écouter](Lien à vérifier) |
 | Syndicat Électronique | Dissidence | Invention Planète - 2002 | [écouter](Lien à vérifier) |
 | Space Cats | Yellow Beach Ball | Original | [écouter](Lien à vérifier) |

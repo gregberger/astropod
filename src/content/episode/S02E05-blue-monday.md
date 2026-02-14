@@ -1,5 +1,5 @@
 ---
-title: "Anti Blue Monday"
+title: "Épisode 11 - Anti Blue Monday"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E05.mp3"  
 pubDate: "Jan 14, 2026"
 duration: "2:06:00"
@@ -32,7 +32,7 @@ Un épisode spécial anti-déprime avec une sélection de morceaux feel good pou
 | Hamid El Shaeri  | Ayonha | Habibi Funk | [écouter](https://www.youtube.com/watch?v=ecZEFEysOCE) |
 | Gloria Piedimonte | Chi Sei | 1978 | [écouter](https://youtu.be/JuOeDH_ZC6A?si=02jFIXFqftCN9Rd8) |
 | Touchdown | Ease your Mind | 1980 | [écouter](https://youtu.be/LMqcdII0KdY?si=LannnpNK8FXr0h6L) |
-| Safi Brothers | On Air | Blue Room Released - 1997 | [écouter](Lien à vérifier) |
+| Safi Brothers | On Air | Blue Room Released - 1997 | [écouter](https://www.youtube.com/watch?v=APObAmv2KVs) |
 | Syndicat Électronique | Dissidence | Invention Planète - 2002 | [écouter](Lien à vérifier) |
 | Space Cats | Yellow Beach Ball | Original | [écouter](Lien à vérifier) |
 | Jeanne Shy | Night Dancer | RSO - 1979 | [écouter](https://youtu.be/UYYsWlYpS7A?si=tEy_FdZ9xs1qJjZq) |

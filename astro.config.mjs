@@ -29,5 +29,6 @@ export default defineConfig({
       logLevel: "debug",
     }),
   ],
+  outDir: "./dist",
   output: "static"
 });

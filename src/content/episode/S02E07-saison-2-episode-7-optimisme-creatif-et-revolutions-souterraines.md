@@ -1,5 +1,5 @@
 ---
-title: "Ça déménage"
+title: "Saison 2 Episode 7 - Optimisme créatif et révolutions souterraines"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E07.mp3"  
 pubDate: "Mar 22, 2026"
 duration: "0:00:00"
@@ -11,9 +11,20 @@ season: 07
 episodeType: full
 ---
 
-# Optimisme créatif et révolutions souterraines - Saison 2 Episode 7
+# Saison 2 Episode 7 - Optimisme créatif et révolutions souterraines
 
 Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d‘Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
+
+
+```
+⚠️⚠️⚠️ DISCLAIMER ⚠️⚠️⚠️
+
+La page de cet épisode a été générée automatiquement par une IA (Claude Sonnet 4 de Anthropic), sur base d'un transcript lui-même généré par une IA (AssemblyAI) à partir de l'enregistrement audio
+
+Utiliser de l'intelligence artificielle nous permet de laisser libre cours à notre bêtise naturelle (ceci dit, c'est probablement l'inverse: notre bêtise naturelle nous pousse à utiliser de l'intelligence artificielle). 
+
+Toujours est-il que des erreurs ~~peuvent~~ doivent s'être glissées ici. N'hésitez pas à nous les communiquer si vous en décelez.
+ ```
 
 ---
 
@@ -23,17 +34,32 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cos
 
 ---
 
+Une émission placée sous le signe de l'optimisme créatif, explorant comment les périodes sombres donnent naissance aux plus belles révolutions artistiques. Au programme, de l'acid house avec Charles Manier, de l'ambient cosmique avec Tangerine Dream, du disco funk avec Mary Jane Girls, et une thématique spéciale déménagement.
+
+## Guest Mix
+
+[Kevin](Cosmic L'émission) Merci encore !!
+
+[Greg](Cosmic L'émission) Merci encore !!
+
+[Jérôme](Cosmic L'émission) Merci encore !!
+
 ## Morceaux mentionnés
 
 | Artiste | Morceau | Info | Lien YouTube |
 |---------|---------|------|--------------|
 | Charles Manier | Change You | Ghostly International - 2002 | [écouter](https://www.youtube.com/watch?v=dQw4w9WgXcQ) |
-| Tangerine Dream | Phaedra | 1974 | [écouter](https://www.youtube.com/watch?v=BXzzQhs7lQY) |
-| Mary Jane Girls | All Night Long | Gordy - 1983 | [écouter](https://www.youtube.com/watch?v=StlMdNcvCJo) |
-| Amin Peck | Another Song | 1983 | [écouter](https://youtu.be/Zp84XfZ3Ry0?si=BxjiE-BhamhdctSW) |
-| Warren Suicide (Apparat Remix) | Moving Clothes | Shitkatapult - 2012 | [écouter](https://www.youtube.com/watch?v=Lien_à_vérifier) |
-| Carmen | Time to Move | Original | [écouter](https://www.youtube.com/watch?v=Lien_à_vérifier) |
-| Munich Machine | Nuit Blanche | Original | [écouter](https://www.youtube.com/watch?v=Lien_à_vérifier) |
-| Mr. Freaky | Out of My Mind | ID Limited - 1988 | [écouter](https://www.youtube.com/watch?v=Lien_à_vérifier) |
-| Masquerade | Wooden Wooden | 1979 | [écouter](https://www.youtube.com/watch?v=Lien_à_vérifier) |
+| Tangerine Dream | Phaedra | 1974 | [écouter](https://www.youtube.com/watch?v=UEBIsUsvheA) |
+| Mary Jane Girls | All Night Long | Gordy - 1983 | [écouter](https://www.youtube.com/watch?v=StKVS0eI85I) |
+| Amine Pec | Another Song | 1983 | [écouter](Lien à vérifier) |
+| Warren Suicide (Apparat Remix) | Moving Clothes | Shitkatapult - 2012 | [écouter](Lien à vérifier) |
+| Carmen | Time to Move | Original | [écouter](Lien à vérifier) |
+| Munich Machine | Nuit Blanche | Original | [écouter](Lien à vérifier) |
+| Mr. Freaky | Out of My Mind | ID Limited - 1988 | [écouter](Lien à vérifier) |
+| Masquerade | Wooden Wooden | 1979 | [écouter](Lien à vérifier) |
 
+---
+
+## Événements mentionnés
+
+- **303 Day** - Global

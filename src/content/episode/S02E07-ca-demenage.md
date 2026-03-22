@@ -4,7 +4,6 @@ audioUrl: "https://contents.cosmiverse.be/cosmic-S02E07.mp3"
 pubDate: "Mar 22, 2026"
 duration: "0:00:00"
 size: 0
-cover: "/images/S02E07.png"
 explicit: true
 episode: 02
 season: 07

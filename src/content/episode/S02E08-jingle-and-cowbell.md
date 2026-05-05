@@ -4,7 +4,6 @@ audioUrl: "https://contents.cosmiverse.be/cosmic-S02E08.mp3"
 pubDate: "May 05, 2026"
 duration: "2:00:00"
 size: 0
-cover: "/images/S02E08.png"
 explicit: true
 episode: 02
 season: 08

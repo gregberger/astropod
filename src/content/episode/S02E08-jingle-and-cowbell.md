@@ -10,9 +10,9 @@ season: 08
 episodeType: full
 ---
 
-# Cosmic L'émission Saison 2 Episode 8 - More Cowbell
+# Cosmic L’émission Saison 2 Episode 8 - Jingle & Cowbell 
 
-Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d‘Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
+Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), l'absence de [Greg aka Joe d‘Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
 
 
 ```

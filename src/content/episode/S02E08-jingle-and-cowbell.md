@@ -1,8 +1,8 @@
 ---
-title: "Cosmic L'émission Saison 2 Episode 8 - More Cowbell"
+title: "Episode 14 - Jingle & Cowbell"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E08.mp3"  
 pubDate: "May 05, 2026"
-duration: "0:00:00"
+duration: "2:00:00"
 size: 0
 cover: "/images/S02E08.png"
 explicit: true
@@ -34,31 +34,18 @@ Toujours est-il que des erreurs ~~peuvent~~ doivent s'être glissées ici. N'hé
 
 ---
 
-Un épisode dédié aux morceaux avec beaucoup de cowbell, explorant le funk, l'électro et la disco. De Liquid Liquid à Inflagranti en passant par Deka, sans oublier les souvenirs d'enfance avec Michel Legrand et l'histoire du clubbing londonien des années 60.
-
-## Guest Mix
-
-[Borokov Borokov](Duo électronique belge) Merci encore !!
-
-[Flemming Dalum](DJ/Producteur Italo Disco) Merci encore !!
-
 ## Morceaux mentionnés
 
 | Artiste | Morceau | Info | Lien YouTube |
 |---------|---------|------|--------------|
-| Liquid Liquid | Bell Head | DFA | [écouter](https://www.youtube.com/watch?v=uqKGREZs6-w) |
-| Inflagranti | Business Acumen | 2008 | [écouter](https://www.youtube.com/watch?v=7QU1nvuxaMA) |
-| Deka | Storm of Steel | Antinote - 2019 | [écouter](https://www.youtube.com/watch?v=kQWAhQcQouI) |
+| Liquid Liquid | Bell Head | DFA | [écouter]() |
+| Inflagranti | Business Acumen | 2008 | [écouter]() |
+| Deka | Storm of Steel | Antinote - 2019 | [écouter]() |
 | Marvin Gaye | Sexual Healing | Original | [écouter](https://www.youtube.com/watch?v=rjlSiASsUIs) |
-| Michel Legrand | Il était une fois l'espace | 1982 | [écouter](https://www.youtube.com/watch?v=eb1vcaqAivY) |
-| Cliff Richard | Move It | 1961 | [écouter](https://www.youtube.com/watch?v=MS3yAhk10iA) |
-| Dusty Springfield | Son of a Preacher Man | Original | [écouter](https://www.youtube.com/watch?v=DjydOI4MEIw) |
-| Alan Ross | Valentino Mon Amour | 1985 | [écouter](https://www.youtube.com/watch?v=Lien à vérifier) |
+| Michel Legrand | Il était une fois l'espace | 1982 | [écouter]() |
+| Cliff Richard | Move It | 1961 | [écouter]() |
+| Dusty Springfield | Son of a Preacher Man | Original | [écouter]() |
+| Alan Ross | Valentino Mon Amour | 1985 | [écouter]() |
 | Borokov Borokov feat. Frankie Trandruppel | Rong Pi | Magma Records - 2025 | Lien à vérifier |
-| Electronic Systems | Fly to Venus | Targary Cort - 1977 | [écouter](https://www.youtube.com/watch?v=Lien à vérifier) |
+| Electronic Systems | Fly to Venus | Targary Cort - 1977 | [écouter]() |
 
----
-
-## Événements mentionnés
-
-- **Soirée Cosmic au Cultura** - Cultura

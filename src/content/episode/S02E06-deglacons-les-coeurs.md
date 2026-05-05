@@ -1,5 +1,5 @@
 ---
-title: "Déglaçons les coeurs"
+title: "Episode 12 - Déglaçons les coeurs"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E06.mp3"  
 pubDate: "Feb 14, 2026"
 duration: "2:13:00"

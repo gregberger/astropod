@@ -5,8 +5,8 @@ pubDate: "Mar 22, 2026"
 duration: "0:00:00"
 size: 0
 explicit: true
-episode: 02
-season: 07
+episode: 07
+season: 02
 episodeType: full
 ---
 

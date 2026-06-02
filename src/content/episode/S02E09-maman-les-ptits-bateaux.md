@@ -4,7 +4,6 @@ audioUrl: "https://contents.cosmiverse.be/cosmic-S02E09.mp3"
 pubDate: "Jun 02, 2026"
 duration: "0:00:00"
 size: 0
-cover: "/images/S02E09.png"
 explicit: true
 episode: 09
 season: 02

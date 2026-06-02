@@ -5,8 +5,8 @@ pubDate: "May 05, 2026"
 duration: "2:00:00"
 size: 0
 explicit: true
-episode: 02
-season: 08
+episode: 08
+season: 02
 episodeType: full
 ---
 

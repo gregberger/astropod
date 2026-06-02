@@ -6,8 +6,8 @@ duration: "02:08:30"
 size: 0
 cover: "/images/s02e03.png"
 explicit: true
-episode: 02
-season: 03
+episode: 03
+season: 02
 episodeType: full
 ---
 

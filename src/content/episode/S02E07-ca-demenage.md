@@ -2,7 +2,7 @@
 title: "Episode 13 - Ça déménage !"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E07.mp3"  
 pubDate: "Mar 22, 2026"
-duration: "0:00:00"
+duration: "2:00:00"
 size: 0
 explicit: true
 episode: 07

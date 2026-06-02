@@ -2,7 +2,7 @@
 title: "Episode 15 - Maman, les p'tits bateaux"
 audioUrl: "https://contents.cosmiverse.be/cosmic-S02E09.mp3"
 pubDate: "Jun 02, 2026"
-duration: "0:00:00"
+duration: "02:00:00"
 size: 0
 explicit: true
 episode: 09

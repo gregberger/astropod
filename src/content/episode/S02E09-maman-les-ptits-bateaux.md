@@ -10,7 +10,7 @@ season: 02
 episodeType: full
 ---
 
-# Maman, les p'tits bateaux
+# Maman, les p’tits bateaux
 
 Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cosmic Turtle](https://i.seadn.io/gcs/files/a552993aecdcdb0aedd93116bc207e59.png?auto=format&w=1400&fr=1), [Greg aka Joe d‘Absynth](https://soundcloud.com/gregory-berger-1) et [Kevin aka George Mood](https://soundcloud.com/george_mood)
 
@@ -18,7 +18,7 @@ Animé par [Jerohm](https://jerohm.com/) avec la complicité de [Antoine aka Cos
 
 ## Le monologue de Jérôme
 
-> C'est parti! Bonjour à tous. Aujourd'hui, je n'ai pas d'intro, c'est le retour des beaux jours. Comment? C'est le retour des beaux jours, la lumière qui s'attarde un peu plus longtemps sur les façades, les soirées qui s'étirent sans qu'on regarde l'heure. Et pour moi, nous enregistrons le début de quinze jours de vacances. Rien de spectaculaire, rien de planifié, juste le luxe de ralentir. J'ai traîné chez les disquaires, chez les libraires, pris le temps de feuilleter des livres sans intention précise. Laisser mais pas décider à ma place, j'ai redécouvert ce plaisir simple, poser un vinyle, m'allonger sur le divan, ouvrir un livre et laisser le monde faire une pause autour de moi. J'ai bien essayé d'écrire une vraie intro, quelque chose de construit, de soigné, mais rien n'est venu. À la place, quelques phrases griffonnées sur un calpin, en terrasse, entre deux gorgées et un rayon de soleil. Pas grand chose en apparence. Et pourtant, l'un de mon intro, probablement la plus flemmarde depuis l'existence de cette émission, Mais une intro quand même. Bienvenue dans l'épisode 9 de la saison 2 de Cosmic.
+> C’est parti! Bonjour à tous. Aujourd'hui, je n'ai pas d'intro, c'est le retour des beaux jours. Comment? C'est le retour des beaux jours, la lumière qui s'attarde un peu plus longtemps sur les façades, les soirées qui s'étirent sans qu'on regarde l'heure. Et pour moi, nous enregistrons le début de quinze jours de vacances. Rien de spectaculaire, rien de planifié, juste le luxe de ralentir. J'ai traîné chez les disquaires, chez les libraires, pris le temps de feuilleter des livres sans intention précise. Laisser mais pas décider à ma place, j'ai redécouvert ce plaisir simple, poser un vinyle, m'allonger sur le divan, ouvrir un livre et laisser le monde faire une pause autour de moi. J'ai bien essayé d'écrire une vraie intro, quelque chose de construit, de soigné, mais rien n'est venu. À la place, quelques phrases griffonnées sur un calpin, en terrasse, entre deux gorgées et un rayon de soleil. Pas grand chose en apparence. Et pourtant, l'un de mon intro, probablement la plus flemmarde depuis l'existence de cette émission, Mais une intro quand même. Bienvenue dans l'épisode 9 de la saison 2 de Cosmic.
 
 ---
 
